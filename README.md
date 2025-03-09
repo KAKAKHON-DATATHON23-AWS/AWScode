@@ -1,10 +1,19 @@
 # DATATHON 2023 - TEAM : KAKAKHON
+## 🪴PLANTUM🪴
+___Your personalized AI plant curator using stable diffusion and segmentation models___
 
-Hyeongkyun Kim (uzh)
+🥉 3rd Winner in Category: UN Sustainability Goal (organized by AWS Zürich)
 
-Songyi Han (uzh)
+[Slide](2023_Plantum_ETHDatathon.pdf)
 
-Sanghwan Kim (ETH)
+![alt text](Plantum-Overview.jpg)
+
+Hyeongkyun Kim (UZH) - [LinkedIn](https://www.linkedin.com/in/hyeongkyun-kaden-kim/)
+
+Songyi Han (UZH) - [LinkedIn](https://www.linkedin.com/in/songyi-han-720962167/)
+
+Sanghwan Kim (ETH) - [LinkedIn](https://www.linkedin.com/in/sanghwan-kim-bb2a41193/?originalSubdomain=de)
+
 
  
 
